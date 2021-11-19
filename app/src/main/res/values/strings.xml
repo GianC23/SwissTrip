@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SwissTrip</string>
+    <string name="connections">Verbindungen</string>
+    <string name="departureDestination">Abfahrtsort</string>
+    <string name="departureTime">Abfahrtszeit</string>
+    <string name="departurePlatform">Abfahrtsgleis</string>
+    <string name="arrow">--></string>
+    <string name="travelTime">Reisezeit</string>
+    <string name="arrivalDestination">Ankunftsort</string>
+    <string name="arrivalTime">Ankunftszeit</string>
+    <string name="arrivalPlatform">Ankunftsgleis</string>
+    <string name="search">Suchen</string>
+    <string name="from">Von</string>
+    <string name="to">Bis</string>
+    <string name="time">Zeit</string>
+    <string name="date">Datum</string>
+    <string name="weather">Wetter</string>
+</resources>
